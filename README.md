@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11995217&assignment_repo_type=AssignmentRepo)
 # Overview
 
 For assignment 2, you will continue to think through the details of your site by defining the information architecture of your site, creating high-fidelity wire-frames, and developing multiple user profiles for your site.  Requirement 1 will ask you to create a site map of your website's content.  Requirement 2 requires you to create several wire-frames for the various layouts your site will have.  Requirement 3 is going to have you create CSS style rules and place them into an external document. Requirement 4 simply provides instructions on how you will submit and upload the assignment.   Make sure to label your requirements 1 and 2 within a heading tag.
